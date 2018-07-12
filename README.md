@@ -8,7 +8,7 @@
 * Execute run.sh 
 
     ```
-    sh run.sh 
+    sh run.sh baselineperf
     ```
 * Run the report SQLs
     * rpt_elap_sqlid.sql
