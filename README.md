@@ -1,6 +1,5 @@
 # get_run_stats
 - Karl Arao, OakTable, Oracle ACE, OCP-DBA, RHCE
-- http://karlarao.wordpress.com
 
 
 ### The general workflow:
